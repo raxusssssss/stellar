@@ -65,7 +65,7 @@ h2 {
 .rounded-button {
     background-color: #220081cc;
     border: color;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -105,7 +105,7 @@ h2 {
 
 .rounded-button4:hover {
     transform: scale(1.1);
-    background-color: #5c5c5ccc;
+    background-color: #000000cc;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
     transition: transform 0.5s ease, background-color 0.5s ease, box-shadow 0.5s ease;
 }
